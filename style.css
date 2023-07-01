@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url("bg-image.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.header {
+  margin-top: 20px;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+h2 {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: white;
+}
+
+.mail-icon {
+  height: 24px;
+  width: 24px;
+  stroke: white;
+  margin-top: 12px;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-family: "Times New Roman";
+  color: white;
+}
+
+.header {
+  text-align: center;
+}
+.article {
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 5px 50px;
+  border-radius: 40px;
+  text-align: center;
+}
+
+.article a {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.github a {
+  padding: 0 50px;
+}
+
+.linkedin a {
+  padding: 0 45px;
+}
+
+.instagram a {
+  padding: 0 41px;
+}
+
+.facebook a {
+  padding: 0 41px;
+}
+
+.snapchat a {
+  padding: 0 41px;
+}
